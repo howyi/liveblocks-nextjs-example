@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lexical/react": "^0.12.5",
     "@liveblocks/client": "^1.8.2",
     "@liveblocks/node": "^1.8.2",
     "@liveblocks/react": "^1.8.2",

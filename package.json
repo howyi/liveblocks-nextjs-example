@@ -13,6 +13,7 @@
     "@liveblocks/client": "^1.8.2",
     "@liveblocks/node": "^1.8.2",
     "@liveblocks/react": "^1.8.2",
+    "@liveblocks/yjs": "^1.8.2",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
